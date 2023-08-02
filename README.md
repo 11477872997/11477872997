@@ -4,7 +4,7 @@
 </p>
 <p  align="center">🔥 博客：https://www.cnblogs.com/zxh-bug/ </p>
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+<p  align="center"> Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=11477872997&theme=dark&layout=compact)
 
