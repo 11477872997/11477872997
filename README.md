@@ -1,6 +1,8 @@
 <!-- ### 欢迎来到前端嚣张农民GitHub主页 👋 -->
 
-<h1 align="center">欢迎来到前端搬运工GitHub主页👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%89%8D%E7%AB%AF%E6%90%AC%E8%BF%90%E5%B7%A5GitHub%E4%B8%BB%E9%A1%B5;%E5%8D%9A%E5%AE%A2%E5%9B%AD%EF%BC%9Ahttps%3A%2F%2Fwww.cnblogs.com%2Fzxh-bug%2F" alt="Typing SVG" />👋</a>
+</h1>
 🔥 My projects:
 -----------------------
 
@@ -11,7 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1147782997&theme=dark&layout=compact)
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%89%8D%E7%AB%AF%E6%90%AC%E8%BF%90%E5%B7%A5GitHub%E4%B8%BB%E9%A1%B5;%E5%8D%9A%E5%AE%A2%E5%9B%AD%EF%BC%9Ahttps%3A%2F%2Fwww.cnblogs.com%2Fzxh-bug%2F" alt="Typing SVG" /></a>
+
+
