@@ -6,4 +6,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=11477872997&theme=dark&layout=compact)
 
-![](https://raw.githubusercontent.com/11477872997/11477872997/main/assets/github-contribution-grid-snake.svg)
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
