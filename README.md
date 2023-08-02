@@ -6,7 +6,4 @@
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉 
 
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=11477872997&theme=dark&layout=compact)
-
-
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11477872997layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=11477872997&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
