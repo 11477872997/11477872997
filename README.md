@@ -4,7 +4,6 @@
 </p>
 <p  align="center">🔥 博客：https://www.cnblogs.com/zxh-bug/ </p>
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://www.cnblogs.com/zxh-bug/) visitor, Thank You!🎉🎉
 <div  align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11477872997&layout=compact" height=145/>
     <img src="https://github-readme-stats.vercel.app/api?username=11477872997&count_private=true&show_icons=true" height=145/>
