@@ -5,13 +5,9 @@
 <p  align="center">🔥 博客：https://www.cnblogs.com/zxh-bug/ </p>
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@11477872997?theme=rule34"></a><br>
-<img src = "https://github-readme-stats.vercel.app/api?username=11477872997&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=11477872997&theme=dracula">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=11477872997&theme=monokai">
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=11477872997&theme=dracula"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11477872997&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  /><br>
+<img src = "https://github-readme-stats.vercel.app/api?username=11477872997&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><br>
 
-<div  align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11477872997&layout=compact" />
-</div>
-<div  align="center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=11477872997&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</div>
+
+ 
