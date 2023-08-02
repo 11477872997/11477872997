@@ -10,7 +10,8 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=11477872997&theme=monokai">
 
 <div  align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11477872997&layout=compact" height=145/>
-    <img src="https://github-readme-stats.vercel.app/api?username=11477872997&count_private=true&show_icons=true" height=145/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11477872997&layout=compact" />
 </div>
-
+<div  align="center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=11477872997&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</div>
